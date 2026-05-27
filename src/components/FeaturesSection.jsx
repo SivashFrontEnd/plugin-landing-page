@@ -43,7 +43,7 @@ const FeaturesSection = () => {
           className="text-center mb-16"
         >
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4">
-            Переваги <span className="neon-text text-cyan-400">плагіну</span>
+            Переваги <span className="neon-text text-cyan-200">плагіну</span>
           </h2>
           <p className="text-gray-400 text-lg">
             Все, що потрібно для успішних продажів

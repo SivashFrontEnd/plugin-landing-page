@@ -16,7 +16,7 @@ const Footer = () => {
           className="flex flex-col md:flex-row items-center justify-between gap-6"
         >
           <div className="text-center md:text-left">
-            <p className="text-2xl font-bold neon-text text-cyan-400 mb-2">
+            <p className="text-2xl font-bold neon-text text-cyan-200 mb-2">
               JSDevPro
             </p>
             <p className="text-gray-400">
